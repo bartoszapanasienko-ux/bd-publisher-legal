@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<pre id="out"></pre>
+<script>
+  document.getElementById('out').textContent = window.location.search;
+</script>
+</body>
+</html>
